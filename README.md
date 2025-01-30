@@ -44,6 +44,7 @@ cd seismic-denoising-vit
 
 ## Prepare the Data
 Ensure your seismic dataset is correctly formatted and loaded Look at the codebase to know  appropriate shape of seismic section image to reshape your own seismic section data and Modify padding accordingly.
+For reasons, Data folder used for our codebase is not provided. Do look into `Data Loader` section of notebook to know more about how Data is organized.
 
 ## Run the Notebook
 Execute all cells to train and evaluate the model.
