@@ -38,8 +38,8 @@ This notebook is optimized for **GPU usage**. Ensure you have the proper **CUDA*
 ## Usage
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/seismic-denoising-vit.git
-cd seismic-denoising-vit
+git clone https://github.com/SimLab120/SeisDenoiser.git
+cd ./SeisDenoiser
 ```
 
 ## Prepare the Data
