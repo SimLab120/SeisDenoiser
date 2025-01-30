@@ -57,5 +57,7 @@ Use provided functions to save and load trained models.
 ## Contributing
 Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request with your improvements.
 
+## Contact
+For queries, contact `simlab120@gmail.com`.
 
 
