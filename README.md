@@ -29,6 +29,7 @@ Install the required dependencies using:
 
 ```sh
 pip install tensorflow scikit-learn numpy matplotlib pickle
+```
 
 
 ## GPU Support
@@ -39,6 +40,22 @@ This notebook is optimized for **GPU usage**. Ensure you have the proper **CUDA*
 ```sh
 git clone https://github.com/your-username/seismic-denoising-vit.git
 cd seismic-denoising-vit
+```
+
+## Prepare the Data
+Ensure your seismic dataset is correctly formatted and loaded Look at the codebase to know  appropriate shape of seismic section image to reshape your own seismic section data and Modify padding accordingly.
+
+## Run the Notebook
+Execute all cells to train and evaluate the model.
+
+## Evaluate Results
+Visualize the denoised seismic data and compare it with the noisy input.
+
+## Save/Load Model
+Use provided functions to save and load trained models.
+
+## Contributing
+Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request with your improvements.
 
 
 
